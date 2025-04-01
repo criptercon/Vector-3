@@ -1,4 +1,3 @@
-# Definir límites
 MAX_VERTICES = 100
 MAX_FACES = 50
 MAX_FACE_SIZE = 10 
